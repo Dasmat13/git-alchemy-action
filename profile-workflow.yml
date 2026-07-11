@@ -1,0 +1,38 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Copy this file to YOUR PROFILE REPO:
+#   Dasmat13/Dasmat13/.github/workflows/alchemy.yml
+#
+# Then add this to your profile README.md:
+#   ![GitAlchemy](https://raw.githubusercontent.com/Dasmat13/Dasmat13/main/dist/alchemy.svg)
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: GitAlchemy — Update Profile
+
+on:
+  schedule:
+    - cron: '0 21 * * *'   # Runs daily at 21:00 UTC
+  workflow_dispatch:         # Allow manual trigger
+
+jobs:
+  alchemy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitAlchemy SVG
+        uses: Dasmat13/git-alchemy-action@main
+        with:
+          github_user_name: ${{ github.actor }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/alchemy.svg
+
+      - name: Commit & Push SVG
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/alchemy.svg
+          git diff --cached --quiet || git commit -m "🧪 Update GitAlchemy [$(date +'%Y-%m-%d')]"
+          git push
