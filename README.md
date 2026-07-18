@@ -10,7 +10,7 @@ Your commits fill shelves with bubbling potion flasks, beakers, and ancient spel
 
 ## 🔮 How It Works
 
-This action queries your public profile metrics and generates a custom vector SVG. Using CSS keyframe animations, it animates a floating mana crystal in the center of the room, generates drifting magical sparkles, bubbles potion flasks, flaps dragon wings, and blinks cat eyes.
+This action queries your public profile metrics and generates custom vector SVG. Using CSS keyframe animations, it animates a floating mana crystal in the center of the room, generates drifting magical sparkles, bubbles potion flasks, flaps dragon wings, and blinks cat eyes.
 
 ### The Laboratory Mapping
 
