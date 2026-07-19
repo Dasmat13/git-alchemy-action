@@ -40,86 +40,77 @@
 
   <!-- Lab Assets on Shelves -->
   <g class="lab-asset" style="animation-delay:0.00s">
-          <!-- Cover -->
-          <rect x="45" y="47" width="10" height="32" fill="#5a2d0c" rx="1"/>
-          <!-- Gold spine bands -->
-          <line x1="45" y1="53.4" x2="55" y2="53.4" stroke="#3498db" stroke-width="1.5"/>
-          <line x1="45" y1="72.6" x2="55" y2="72.6" stroke="#3498db" stroke-width="1.5"/>
-          <!-- Page edges showing -->
-          <rect x="53" y="48" width="1.5" height="30" fill="#fdfefe"/>
+          <!-- Retort body -->
+          <path d="M 38,79 C 38,49 62,49 62,79 Z" fill="#9b59b6"/>
+          <!-- Condensing tube -->
+          <path d="M 56,58 Q 68,64 65,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
+          <rect x="49" y="53.5" width="2" height="4.5" fill="#fff"/>
         </g>
   <g class="lab-asset" style="animation-delay:0.12s">
           <!-- Retort body -->
-          <path d="M 88,79 C 88,49 112,49 112,79 Z" fill="#1abc9c"/>
+          <path d="M 88.4,79 C 88.4,50 111.6,50 111.6,79 Z" fill="#9b59b6"/>
           <!-- Condensing tube -->
-          <path d="M 106,58 Q 118,64 115,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
-          <rect x="99" y="53.5" width="2" height="4.5" fill="#fff"/>
+          <path d="M 105.8,58.7 Q 117.4,64.5 114.5,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
+          <rect x="99" y="54.35" width="2" height="4.35" fill="#fff"/>
         </g>
   <g class="lab-asset" style="animation-delay:0.24s">
-          <!-- Retort body -->
-          <path d="M 138.4,79 C 138.4,50 161.6,50 161.6,79 Z" fill="#1abc9c"/>
-          <!-- Condensing tube -->
-          <path d="M 155.8,58.7 Q 167.4,64.5 164.5,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
-          <rect x="149" y="54.35" width="2" height="4.35" fill="#fff"/>
-        </g>
-  <g class="lab-asset" style="animation-delay:0.36s">
           <!-- Neck -->
-          <line x1="200" y1="70.2" x2="200" y2="57" stroke="#fff" stroke-width="2" opacity="0.6"/>
+          <line x1="150" y1="70.2" x2="150" y2="57" stroke="#fff" stroke-width="2" opacity="0.6"/>
           <!-- Body -->
-          <circle cx="200" cy="70.2" r="8.8" fill="#00d2ff"/>
-          <circle cx="200" cy="70.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
+          <circle cx="150" cy="70.2" r="8.8" fill="#e74c3c"/>
+          <circle cx="150" cy="70.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
           <!-- Bubbles inside boiling flask -->
           
+        </g>
+  <g class="lab-asset" style="animation-delay:0.36s">
+          <line x1="200" y1="79" x2="200" y2="60" stroke="#e74c3c" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="200" cy="60" r="2.5" fill="#ffffff" opacity="0.7"/>
         </g>
   <g class="lab-asset" style="animation-delay:0.48s">
           <line x1="250" y1="79" x2="250" y2="60" stroke="#00d2ff" stroke-width="4" stroke-linecap="round"/>
           <circle cx="250" cy="60" r="2.5" fill="#ffffff" opacity="0.7"/>
         </g>
-  <g class="lab-asset" style="animation-delay:0.60s">
-          <line x1="300" y1="79" x2="300" y2="60" stroke="#e67e22" stroke-width="4" stroke-linecap="round"/>
-          <circle cx="300" cy="60" r="2.5" fill="#ffffff" opacity="0.7"/>
-        </g>
   
-  <g class="lab-asset" style="animation-delay:0.84s">
+  <g class="lab-asset" style="animation-delay:0.72s">
           <!-- Retort body -->
-          <path d="M 388.8,79 C 388.8,51 411.2,51 411.2,79 Z" fill="#e67e22"/>
+          <path d="M 338.8,79 C 338.8,51 361.2,51 361.2,79 Z" fill="#00d2ff"/>
           <!-- Condensing tube -->
-          <path d="M 405.6,59.400000000000006 Q 416.8,65 414,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
-          <rect x="399" y="55.2" width="2" height="4.2" fill="#fff"/>
+          <path d="M 355.6,59.400000000000006 Q 366.8,65 364,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
+          <rect x="349" y="55.2" width="2" height="4.2" fill="#fff"/>
         </g>
   
   
   
   
+  <g class="lab-asset" style="animation-delay:1.32s">
+          <!-- Neck -->
+          <line x1="600" y1="70.2" x2="600" y2="57" stroke="#fff" stroke-width="2" opacity="0.6"/>
+          <!-- Body -->
+          <circle cx="600" cy="70.2" r="8.8" fill="#9b59b6"/>
+          <circle cx="600" cy="70.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
+          <!-- Bubbles inside boiling flask -->
+          
+        </g>
   <g class="lab-asset" style="animation-delay:1.44s">
           <!-- Neck -->
-          <line x1="650" y1="70.2" x2="650" y2="57" stroke="#fff" stroke-width="2" opacity="0.6"/>
+          <line x1="650" y1="69.4" x2="650" y2="55" stroke="#fff" stroke-width="2" opacity="0.6"/>
           <!-- Body -->
-          <circle cx="650" cy="70.2" r="8.8" fill="#1abc9c"/>
-          <circle cx="650" cy="70.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
+          <circle cx="650" cy="69.4" r="9.600000000000001" fill="#3498db"/>
+          <circle cx="650" cy="69.4" r="9.600000000000001" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
           <!-- Bubbles inside boiling flask -->
-          
+          <circle class="flask-bubble" cx="648" cy="71.4" r="1" fill="#fff"/>
+                               <circle class="flask-bubble" cx="652" cy="68.4" r="0.8" fill="#fff" style="animation-delay:0.4s"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.56s">
-          <!-- Neck -->
-          <line x1="700" y1="69.4" x2="700" y2="55" stroke="#fff" stroke-width="2" opacity="0.6"/>
-          <!-- Body -->
-          <circle cx="700" cy="69.4" r="9.600000000000001" fill="#e74c3c"/>
-          <circle cx="700" cy="69.4" r="9.600000000000001" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
-          <!-- Bubbles inside boiling flask -->
-          <circle class="flask-bubble" cx="698" cy="71.4" r="1" fill="#fff"/>
-                               <circle class="flask-bubble" cx="702" cy="68.4" r="0.8" fill="#fff" style="animation-delay:0.4s"/>
+          <!-- Retort body -->
+          <path d="M 688.8,79 C 688.8,51 711.2,51 711.2,79 Z" fill="#e67e22"/>
+          <!-- Condensing tube -->
+          <path d="M 705.6,59.400000000000006 Q 716.8,65 714,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
+          <rect x="699" y="55.2" width="2" height="4.2" fill="#fff"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.68s">
-          <!-- Retort body -->
-          <path d="M 738.8,79 C 738.8,51 761.2,51 761.2,79 Z" fill="#9b59b6"/>
-          <!-- Condensing tube -->
-          <path d="M 755.6,59.400000000000006 Q 766.8,65 764,79" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
-          <rect x="749" y="55.2" width="2" height="4.2" fill="#fff"/>
-        </g>
-  <g class="lab-asset" style="animation-delay:1.80s">
-          <line x1="800" y1="79" x2="800" y2="64" stroke="#3498db" stroke-width="4" stroke-linecap="round"/>
-          <circle cx="800" cy="64" r="2.5" fill="#ffffff" opacity="0.7"/>
+          <line x1="750" y1="79" x2="750" y2="64" stroke="#1abc9c" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="750" cy="64" r="2.5" fill="#ffffff" opacity="0.7"/>
         </g>
   
   
@@ -130,13 +121,13 @@
   
   
   
+  <g class="lab-asset" style="animation-delay:0.84s">
+          <line x1="400" y1="144" x2="400" y2="129" stroke="#e67e22" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="400" cy="129" r="2.5" fill="#ffffff" opacity="0.7"/>
+        </g>
   <g class="lab-asset" style="animation-delay:0.96s">
-          <line x1="450" y1="144" x2="450" y2="129" stroke="#9b59b6" stroke-width="4" stroke-linecap="round"/>
-          <circle cx="450" cy="129" r="2.5" fill="#ffffff" opacity="0.7"/>
-        </g>
-  <g class="lab-asset" style="animation-delay:1.08s">
-          <line x1="500" y1="144" x2="500" y2="125" stroke="#3498db" stroke-width="4" stroke-linecap="round"/>
-          <circle cx="500" cy="125" r="2.5" fill="#ffffff" opacity="0.7"/>
+          <line x1="450" y1="144" x2="450" y2="125" stroke="#1abc9c" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="450" cy="125" r="2.5" fill="#ffffff" opacity="0.7"/>
         </g>
   
   
@@ -146,43 +137,52 @@
   
   
   
-  <g class="lab-asset" style="animation-delay:0.12s">
+  <g class="lab-asset" style="animation-delay:0.00s">
           <!-- Neck -->
-          <line x1="97" y1="200.2" x2="97" y2="187" stroke="#fff" stroke-width="2" opacity="0.6"/>
+          <line x1="50" y1="200.2" x2="50" y2="187" stroke="#fff" stroke-width="2" opacity="0.6"/>
           <!-- Body -->
-          <circle cx="97" cy="200.2" r="8.8" fill="#9b59b6"/>
-          <circle cx="97" cy="200.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
+          <circle cx="50" cy="200.2" r="8.8" fill="#e67e22"/>
+          <circle cx="50" cy="200.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
           <!-- Bubbles inside boiling flask -->
           
         </g>
-  <g class="lab-asset" style="animation-delay:0.24s">
+  <g class="lab-asset" style="animation-delay:0.12s">
           <!-- Retort body -->
-          <path d="M 133.6,209 C 133.6,183 154.4,183 154.4,209 Z" fill="#e74c3c"/>
+          <path d="M 86.6,209 C 86.6,183 107.4,183 107.4,209 Z" fill="#3498db"/>
           <!-- Condensing tube -->
-          <path d="M 149.2,190.8 Q 159.6,196 157,209" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
-          <rect x="143" y="186.9" width="2" height="3.9" fill="#fff"/>
+          <path d="M 102.2,190.8 Q 112.6,196 110,209" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
+          <rect x="96" y="186.9" width="2" height="3.9" fill="#fff"/>
+        </g>
+  <g class="lab-asset" style="animation-delay:0.24s">
+          <line x1="144" y1="209" x2="144" y2="194" stroke="#e67e22" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="144" cy="194" r="2.5" fill="#ffffff" opacity="0.7"/>
         </g>
   <g class="lab-asset" style="animation-delay:0.36s">
-          <line x1="191" y1="209" x2="191" y2="194" stroke="#9b59b6" stroke-width="4" stroke-linecap="round"/>
-          <circle cx="191" cy="194" r="2.5" fill="#ffffff" opacity="0.7"/>
+          <!-- Cover -->
+          <rect x="186" y="174" width="10" height="35" fill="#5a2d0c" rx="1"/>
+          <!-- Gold spine bands -->
+          <line x1="186" y1="181" x2="196" y2="181" stroke="#1abc9c" stroke-width="1.5"/>
+          <line x1="186" y1="202" x2="196" y2="202" stroke="#1abc9c" stroke-width="1.5"/>
+          <!-- Page edges showing -->
+          <rect x="194" y="175" width="1.5" height="33" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:0.48s">
           <!-- Cover -->
-          <rect x="233" y="174" width="10" height="35" fill="#5a2d0c" rx="1"/>
+          <rect x="233" y="175" width="10" height="34" fill="#5a2d0c" rx="1"/>
           <!-- Gold spine bands -->
-          <line x1="233" y1="181" x2="243" y2="181" stroke="#3498db" stroke-width="1.5"/>
-          <line x1="233" y1="202" x2="243" y2="202" stroke="#3498db" stroke-width="1.5"/>
+          <line x1="233" y1="181.8" x2="243" y2="181.8" stroke="#9b59b6" stroke-width="1.5"/>
+          <line x1="233" y1="202.2" x2="243" y2="202.2" stroke="#9b59b6" stroke-width="1.5"/>
           <!-- Page edges showing -->
-          <rect x="241" y="175" width="1.5" height="33" fill="#fdfefe"/>
+          <rect x="241" y="176" width="1.5" height="32" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:0.60s">
-          <!-- Cover -->
-          <rect x="280" y="175" width="10" height="34" fill="#5a2d0c" rx="1"/>
-          <!-- Gold spine bands -->
-          <line x1="280" y1="181.8" x2="290" y2="181.8" stroke="#1abc9c" stroke-width="1.5"/>
-          <line x1="280" y1="202.2" x2="290" y2="202.2" stroke="#1abc9c" stroke-width="1.5"/>
-          <!-- Page edges showing -->
-          <rect x="288" y="176" width="1.5" height="32" fill="#fdfefe"/>
+          <!-- Neck -->
+          <line x1="285" y1="200.2" x2="285" y2="187" stroke="#fff" stroke-width="2" opacity="0.6"/>
+          <!-- Body -->
+          <circle cx="285" cy="200.2" r="8.8" fill="#00d2ff"/>
+          <circle cx="285" cy="200.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
+          <!-- Bubbles inside boiling flask -->
+          
         </g>
   <g class="lab-asset" style="animation-delay:0.72s">
           <!-- Neck -->
@@ -202,16 +202,17 @@
           <!-- Bubbles inside boiling flask -->
           
         </g>
-  <g class="lab-asset" style="animation-delay:0.96s">
-          <!-- Neck -->
-          <line x1="426" y1="200.2" x2="426" y2="187" stroke="#fff" stroke-width="2" opacity="0.6"/>
-          <!-- Body -->
-          <circle cx="426" cy="200.2" r="8.8" fill="#1abc9c"/>
-          <circle cx="426" cy="200.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
-          <!-- Bubbles inside boiling flask -->
-          
-        </g>
   
+  <g class="lab-asset" style="animation-delay:1.08s">
+          <!-- Neck -->
+          <line x1="473" y1="199.4" x2="473" y2="185" stroke="#fff" stroke-width="2" opacity="0.6"/>
+          <!-- Body -->
+          <circle cx="473" cy="199.4" r="9.600000000000001" fill="#e74c3c"/>
+          <circle cx="473" cy="199.4" r="9.600000000000001" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
+          <!-- Bubbles inside boiling flask -->
+          <circle class="flask-bubble" cx="471" cy="201.4" r="1" fill="#fff"/>
+                               <circle class="flask-bubble" cx="475" cy="198.4" r="0.8" fill="#fff" style="animation-delay:0.4s"/>
+        </g>
   <g class="lab-asset" style="animation-delay:1.20s">
           <!-- Neck -->
           <line x1="520" y1="199.4" x2="520" y2="185" stroke="#fff" stroke-width="2" opacity="0.6"/>
@@ -223,61 +224,61 @@
                                <circle class="flask-bubble" cx="522" cy="198.4" r="0.8" fill="#fff" style="animation-delay:0.4s"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.32s">
-          <!-- Neck -->
-          <line x1="567" y1="199.4" x2="567" y2="185" stroke="#fff" stroke-width="2" opacity="0.6"/>
-          <!-- Body -->
-          <circle cx="567" cy="199.4" r="9.600000000000001" fill="#e67e22"/>
-          <circle cx="567" cy="199.4" r="9.600000000000001" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
-          <!-- Bubbles inside boiling flask -->
-          <circle class="flask-bubble" cx="565" cy="201.4" r="1" fill="#fff"/>
-                               <circle class="flask-bubble" cx="569" cy="198.4" r="0.8" fill="#fff" style="animation-delay:0.4s"/>
+          <!-- Cover -->
+          <rect x="562" y="176" width="10" height="33" fill="#5a2d0c" rx="1"/>
+          <!-- Gold spine bands -->
+          <line x1="562" y1="182.6" x2="572" y2="182.6" stroke="#9b59b6" stroke-width="1.5"/>
+          <line x1="562" y1="202.4" x2="572" y2="202.4" stroke="#9b59b6" stroke-width="1.5"/>
+          <!-- Page edges showing -->
+          <rect x="570" y="177" width="1.5" height="31" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.44s">
-          <!-- Cover -->
-          <rect x="609" y="176" width="10" height="33" fill="#5a2d0c" rx="1"/>
-          <!-- Gold spine bands -->
-          <line x1="609" y1="182.6" x2="619" y2="182.6" stroke="#1abc9c" stroke-width="1.5"/>
-          <line x1="609" y1="202.4" x2="619" y2="202.4" stroke="#1abc9c" stroke-width="1.5"/>
-          <!-- Page edges showing -->
-          <rect x="617" y="177" width="1.5" height="31" fill="#fdfefe"/>
+          <line x1="614" y1="209" x2="614" y2="194" stroke="#e74c3c" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="614" cy="194" r="2.5" fill="#ffffff" opacity="0.7"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.56s">
-          <line x1="661" y1="209" x2="661" y2="194" stroke="#00d2ff" stroke-width="4" stroke-linecap="round"/>
-          <circle cx="661" cy="194" r="2.5" fill="#ffffff" opacity="0.7"/>
+          <!-- Retort body -->
+          <path d="M 649.8,209 C 649.8,181 672.2,181 672.2,209 Z" fill="#e74c3c"/>
+          <!-- Condensing tube -->
+          <path d="M 666.6,189.4 Q 677.8,195 675,209" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
+          <rect x="660" y="185.2" width="2" height="4.2" fill="#fff"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.68s">
-          <!-- Retort body -->
-          <path d="M 696.8,209 C 696.8,181 719.2,181 719.2,209 Z" fill="#00d2ff"/>
-          <!-- Condensing tube -->
-          <path d="M 713.6,189.4 Q 724.8,195 722,209" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
-          <rect x="707" y="185.2" width="2" height="4.2" fill="#fff"/>
+          <!-- Cover -->
+          <rect x="703" y="175" width="10" height="34" fill="#5a2d0c" rx="1"/>
+          <!-- Gold spine bands -->
+          <line x1="703" y1="181.8" x2="713" y2="181.8" stroke="#00d2ff" stroke-width="1.5"/>
+          <line x1="703" y1="202.2" x2="713" y2="202.2" stroke="#00d2ff" stroke-width="1.5"/>
+          <!-- Page edges showing -->
+          <rect x="711" y="176" width="1.5" height="32" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.80s">
           <!-- Cover -->
-          <rect x="750" y="175" width="10" height="34" fill="#5a2d0c" rx="1"/>
+          <rect x="750" y="156" width="10" height="53" fill="#5a2d0c" rx="1"/>
           <!-- Gold spine bands -->
-          <line x1="750" y1="181.8" x2="760" y2="181.8" stroke="#e67e22" stroke-width="1.5"/>
-          <line x1="750" y1="202.2" x2="760" y2="202.2" stroke="#e67e22" stroke-width="1.5"/>
+          <line x1="750" y1="166.6" x2="760" y2="166.6" stroke="#1abc9c" stroke-width="1.5"/>
+          <line x1="750" y1="198.4" x2="760" y2="198.4" stroke="#1abc9c" stroke-width="1.5"/>
           <!-- Page edges showing -->
-          <rect x="758" y="176" width="1.5" height="32" fill="#fdfefe"/>
+          <rect x="758" y="157" width="1.5" height="51" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.92s">
           <!-- Cover -->
-          <rect x="797" y="156" width="10" height="53" fill="#5a2d0c" rx="1"/>
+          <rect x="797" y="162" width="10" height="47" fill="#5a2d0c" rx="1"/>
           <!-- Gold spine bands -->
-          <line x1="797" y1="166.6" x2="807" y2="166.6" stroke="#3498db" stroke-width="1.5"/>
-          <line x1="797" y1="198.4" x2="807" y2="198.4" stroke="#3498db" stroke-width="1.5"/>
+          <line x1="797" y1="171.4" x2="807" y2="171.4" stroke="#1abc9c" stroke-width="1.5"/>
+          <line x1="797" y1="199.6" x2="807" y2="199.6" stroke="#1abc9c" stroke-width="1.5"/>
           <!-- Page edges showing -->
-          <rect x="805" y="157" width="1.5" height="51" fill="#fdfefe"/>
+          <rect x="805" y="163" width="1.5" height="45" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:2.04s">
-          <!-- Cover -->
-          <rect x="844" y="162" width="10" height="47" fill="#5a2d0c" rx="1"/>
-          <!-- Gold spine bands -->
-          <line x1="844" y1="171.4" x2="854" y2="171.4" stroke="#3498db" stroke-width="1.5"/>
-          <line x1="844" y1="199.6" x2="854" y2="199.6" stroke="#3498db" stroke-width="1.5"/>
-          <!-- Page edges showing -->
-          <rect x="852" y="163" width="1.5" height="45" fill="#fdfefe"/>
+          <!-- Neck -->
+          <line x1="849" y1="199.4" x2="849" y2="185" stroke="#fff" stroke-width="2" opacity="0.6"/>
+          <!-- Body -->
+          <circle cx="849" cy="199.4" r="9.600000000000001" fill="#e67e22"/>
+          <circle cx="849" cy="199.4" r="9.600000000000001" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
+          <!-- Bubbles inside boiling flask -->
+          <circle class="flask-bubble" cx="847" cy="201.4" r="1" fill="#fff"/>
+                               <circle class="flask-bubble" cx="851" cy="198.4" r="0.8" fill="#fff" style="animation-delay:0.4s"/>
         </g>
 
   <!-- Summoned Familiars -->
@@ -336,11 +337,11 @@
   
     <g class="mana-crystal">
       <!-- Outer energy vortex -->
-      <circle cx="450" cy="95" r="15" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.3" filter="url(#magic-glow)" class="crystal-vortex"/>
-      <circle cx="450" cy="95" r="30" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.18" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
+      <circle cx="450" cy="95" r="25.666666666666664" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.5666666666666667" filter="url(#magic-glow)" class="crystal-vortex"/>
+      <circle cx="450" cy="95" r="40.666666666666664" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.33999999999999997" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
 
       <!-- Ambient glow -->
-      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.3" filter="url(#magic-glow)"/>
+      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.5666666666666667" filter="url(#magic-glow)"/>
 
       <!-- Core Crystal facets -->
       <polygon points="450,65 464,95 450,125 436,95" fill="url(#crystal-shade)" stroke="#fff" stroke-width="0.8"/>
@@ -399,13 +400,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 550 transmutations
+      🧪 Dasmat13's Lab · 556 transmutations
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      MANA: 70 units · STREAK: 0d
+      MANA: 80 units · STREAK: 16d
     </text>
   </g>
 
