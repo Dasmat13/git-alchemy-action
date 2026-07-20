@@ -337,11 +337,11 @@
   
     <g class="mana-crystal">
       <!-- Outer energy vortex -->
-      <circle cx="450" cy="95" r="25.666666666666664" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.5666666666666667" filter="url(#magic-glow)" class="crystal-vortex"/>
-      <circle cx="450" cy="95" r="40.666666666666664" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.33999999999999997" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
+      <circle cx="450" cy="95" r="15" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.3" filter="url(#magic-glow)" class="crystal-vortex"/>
+      <circle cx="450" cy="95" r="30" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.18" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
 
       <!-- Ambient glow -->
-      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.5666666666666667" filter="url(#magic-glow)"/>
+      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.3" filter="url(#magic-glow)"/>
 
       <!-- Core Crystal facets -->
       <polygon points="450,65 464,95 450,125 436,95" fill="url(#crystal-shade)" stroke="#fff" stroke-width="0.8"/>
@@ -400,13 +400,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 556 transmutations
+      🧪 Dasmat13's Lab · 542 transmutations
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      MANA: 80 units · STREAK: 16d
+      MANA: 80 units · STREAK: 0d
     </text>
   </g>
 
