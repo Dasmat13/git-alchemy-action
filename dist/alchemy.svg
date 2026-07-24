@@ -274,8 +274,8 @@
           <!-- Cover -->
           <rect x="844" y="171" width="10" height="38" fill="#5a2d0c" rx="1"/>
           <!-- Gold spine bands -->
-          <line x1="844" y1="178.6" x2="854" y2="178.6" stroke="#1abc9c" stroke-width="1.5"/>
-          <line x1="844" y1="201.4" x2="854" y2="201.4" stroke="#1abc9c" stroke-width="1.5"/>
+          <line x1="844" y1="178.6" x2="854" y2="178.6" stroke="#3498db" stroke-width="1.5"/>
+          <line x1="844" y1="201.4" x2="854" y2="201.4" stroke="#3498db" stroke-width="1.5"/>
           <!-- Page edges showing -->
           <rect x="852" y="172" width="1.5" height="36" fill="#fdfefe"/>
         </g>
@@ -336,11 +336,11 @@
   
     <g class="mana-crystal">
       <!-- Outer energy vortex -->
-      <circle cx="450" cy="95" r="28.333333333333332" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.6333333333333333" filter="url(#magic-glow)" class="crystal-vortex"/>
-      <circle cx="450" cy="95" r="43.33333333333333" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.37999999999999995" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
+      <circle cx="450" cy="95" r="29" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.6499999999999999" filter="url(#magic-glow)" class="crystal-vortex"/>
+      <circle cx="450" cy="95" r="44" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.38999999999999996" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
 
       <!-- Ambient glow -->
-      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.6333333333333333" filter="url(#magic-glow)"/>
+      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.6499999999999999" filter="url(#magic-glow)"/>
 
       <!-- Core Crystal facets -->
       <polygon points="450,65 464,95 450,125 436,95" fill="url(#crystal-shade)" stroke="#fff" stroke-width="0.8"/>
@@ -404,13 +404,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 598 transmutations
+      🧪 Dasmat13's Lab · 600 transmutations
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      MANA: 110 units · STREAK: 20d
+      MANA: 110 units · STREAK: 21d
     </text>
   </g>
 
