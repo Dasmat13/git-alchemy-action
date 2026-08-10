@@ -275,13 +275,11 @@
           <rect x="805" y="175" width="1.5" height="33" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:2.04s">
-          <!-- Neck -->
-          <line x1="849" y1="200.2" x2="849" y2="187" stroke="#fff" stroke-width="2" opacity="0.6"/>
-          <!-- Body -->
-          <circle cx="849" cy="200.2" r="8.8" fill="#00d2ff"/>
-          <circle cx="849" cy="200.2" r="8.8" fill="none" stroke="#fff" stroke-width="0.8" opacity="0.5"/>
-          <!-- Bubbles inside boiling flask -->
-          
+          <!-- Retort body -->
+          <path d="M 837,209 C 837,179 861,179 861,209 Z" fill="#e74c3c"/>
+          <!-- Condensing tube -->
+          <path d="M 855,188 Q 867,194 864,209" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
+          <rect x="848" y="183.5" width="2" height="4.5" fill="#fff"/>
         </g>
 
   <!-- Summoned Familiars -->
@@ -418,13 +416,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 702 transmutations
+      🧪 Dasmat13's Lab · 700 transmutations
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      MANA: 170 units · STREAK: 37d
+      MANA: 170 units · STREAK: 38d
     </text>
   </g>
 
