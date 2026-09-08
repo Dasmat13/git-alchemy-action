@@ -287,7 +287,10 @@
           <line x1="802" y1="209" x2="802" y2="194" stroke="#1abc9c" stroke-width="4" stroke-linecap="round"/>
           <circle cx="802" cy="194" r="2.5" fill="#ffffff" opacity="0.7"/>
         </g>
-  
+  <g class="lab-asset" style="animation-delay:2.04s">
+          <line x1="849" y1="209" x2="849" y2="194" stroke="#3498db" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="849" cy="194" r="2.5" fill="#ffffff" opacity="0.7"/>
+        </g>
 
   <!-- Summoned Familiars -->
   
@@ -423,7 +426,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 904 transmutations
+      🧪 Dasmat13's Lab · 905 transmutations
     </text>
   </g>
   <g>
