@@ -277,11 +277,13 @@
           <rect x="711" y="171" width="1.5" height="37" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.80s">
-          <!-- Retort body -->
-          <path d="M 744.6,209 C 744.6,183 765.4,183 765.4,209 Z" fill="#00d2ff"/>
-          <!-- Condensing tube -->
-          <path d="M 760.2,190.8 Q 770.6,196 768,209" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
-          <rect x="754" y="186.9" width="2" height="3.9" fill="#fff"/>
+          <!-- Cover -->
+          <rect x="750" y="175" width="10" height="34" fill="#5a2d0c" rx="1"/>
+          <!-- Gold spine bands -->
+          <line x1="750" y1="181.8" x2="760" y2="181.8" stroke="#e67e22" stroke-width="1.5"/>
+          <line x1="750" y1="202.2" x2="760" y2="202.2" stroke="#e67e22" stroke-width="1.5"/>
+          <!-- Page edges showing -->
+          <rect x="758" y="176" width="1.5" height="32" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.92s">
           <line x1="802" y1="209" x2="802" y2="194" stroke="#1abc9c" stroke-width="4" stroke-linecap="round"/>
@@ -426,7 +428,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 905 transmutations
+      🧪 Dasmat13's Lab · 929 transmutations
     </text>
   </g>
   <g>
