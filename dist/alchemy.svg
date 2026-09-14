@@ -241,12 +241,12 @@
         </g>
   <g class="lab-asset" style="animation-delay:1.20s">
           <!-- Cover -->
-          <rect x="515" y="173" width="10" height="36" fill="#5a2d0c" rx="1"/>
+          <rect x="515" y="174" width="10" height="35" fill="#5a2d0c" rx="1"/>
           <!-- Gold spine bands -->
-          <line x1="515" y1="180.2" x2="525" y2="180.2" stroke="#e74c3c" stroke-width="1.5"/>
-          <line x1="515" y1="201.8" x2="525" y2="201.8" stroke="#e74c3c" stroke-width="1.5"/>
+          <line x1="515" y1="181" x2="525" y2="181" stroke="#3498db" stroke-width="1.5"/>
+          <line x1="515" y1="202" x2="525" y2="202" stroke="#3498db" stroke-width="1.5"/>
           <!-- Page edges showing -->
-          <rect x="523" y="174" width="1.5" height="34" fill="#fdfefe"/>
+          <rect x="523" y="175" width="1.5" height="33" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.32s">
           <!-- Cover -->
@@ -295,7 +295,10 @@
           <path d="M 808,188 Q 820,194 817,209" fill="none" stroke="#fff" stroke-width="1.5" opacity="0.7"/>
           <rect x="801" y="183.5" width="2" height="4.5" fill="#fff"/>
         </g>
-  
+  <g class="lab-asset" style="animation-delay:2.04s">
+          <line x1="849" y1="209" x2="849" y2="194" stroke="#3498db" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="849" cy="194" r="2.5" fill="#ffffff" opacity="0.7"/>
+        </g>
 
   <!-- Summoned Familiars -->
   
@@ -431,7 +434,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 936 transmutations
+      🧪 Dasmat13's Lab · 930 transmutations
     </text>
   </g>
   <g>
