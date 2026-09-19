@@ -250,12 +250,12 @@
         </g>
   <g class="lab-asset" style="animation-delay:1.32s">
           <!-- Cover -->
-          <rect x="562" y="174" width="10" height="35" fill="#5a2d0c" rx="1"/>
+          <rect x="562" y="173" width="10" height="36" fill="#5a2d0c" rx="1"/>
           <!-- Gold spine bands -->
-          <line x1="562" y1="181" x2="572" y2="181" stroke="#e74c3c" stroke-width="1.5"/>
-          <line x1="562" y1="202" x2="572" y2="202" stroke="#e74c3c" stroke-width="1.5"/>
+          <line x1="562" y1="180.2" x2="572" y2="180.2" stroke="#00d2ff" stroke-width="1.5"/>
+          <line x1="562" y1="201.8" x2="572" y2="201.8" stroke="#00d2ff" stroke-width="1.5"/>
           <!-- Page edges showing -->
-          <rect x="570" y="175" width="1.5" height="33" fill="#fdfefe"/>
+          <rect x="570" y="174" width="1.5" height="34" fill="#fdfefe"/>
         </g>
   <g class="lab-asset" style="animation-delay:1.44s">
           <!-- Cover -->
@@ -362,11 +362,11 @@
   
     <g class="mana-crystal">
       <!-- Outer energy vortex -->
-      <circle cx="450" cy="95" r="15" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.3" filter="url(#magic-glow)" class="crystal-vortex"/>
-      <circle cx="450" cy="95" r="30" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.18" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
+      <circle cx="450" cy="95" r="15.666666666666666" fill="none" stroke="#00d2ff" stroke-dasharray="10, 15" stroke-width="1.5" opacity="0.31666666666666665" filter="url(#magic-glow)" class="crystal-vortex"/>
+      <circle cx="450" cy="95" r="30.666666666666664" fill="none" stroke="#00d2ff" stroke-dasharray="8, 25" stroke-width="1" opacity="0.18999999999999997" filter="url(#magic-glow)" class="crystal-vortex" style="animation-direction:reverse; animation-duration:12s"/>
 
       <!-- Ambient glow -->
-      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.3" filter="url(#magic-glow)"/>
+      <polygon points="450,60 468,95 450,130 432,95" fill="#00d2ff" opacity="0.31666666666666665" filter="url(#magic-glow)"/>
 
       <!-- Core Crystal facets -->
       <polygon points="450,65 464,95 450,125 436,95" fill="url(#crystal-shade)" stroke="#fff" stroke-width="0.8"/>
@@ -440,13 +440,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🧪 Dasmat13's Lab · 937 transmutations
+      🧪 Dasmat13's Lab · 940 transmutations
     </text>
   </g>
   <g>
     <rect x="650" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.6)" stroke="#2a344a" stroke-width="1"/>
     <text x="656" y="22" font-family="monospace" font-size="10" fill="#00d2ff" font-weight="bold">
-      MANA: 170 units · STREAK: 0d
+      MANA: 170 units · STREAK: 1d
     </text>
   </g>
 
